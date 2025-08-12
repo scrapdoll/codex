@@ -1,3 +1,4 @@
+//! Parse unified diff patches and apply them to the filesystem.
 mod parser;
 mod seek_sequence;
 

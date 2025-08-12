@@ -1,3 +1,4 @@
+//! Utilities for interacting with a local Ollama server and pulling OSS models.
 mod client;
 mod parser;
 mod pull;

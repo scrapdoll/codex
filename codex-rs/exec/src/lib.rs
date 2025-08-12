@@ -1,3 +1,4 @@
+//! Event loop and helpers for running Codex and processing its events.
 mod cli;
 mod event_processor;
 mod event_processor_with_human_output;
