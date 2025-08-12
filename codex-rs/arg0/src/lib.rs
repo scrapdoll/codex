@@ -1,3 +1,4 @@
+//! Dispatch helper that uses `argv[0]` to expose multiple Codex CLIs from one binary.
 use std::future::Future;
 use std::path::Path;
 use std::path::PathBuf;

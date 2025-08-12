@@ -1,3 +1,4 @@
+//! Authentication helpers for Codex supporting API keys and ChatGPT-based login.
 use chrono::DateTime;
 
 use chrono::Utc;

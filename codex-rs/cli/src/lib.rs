@@ -1,3 +1,4 @@
+//! Shared types and commands for the top-level `codex` CLI and sandbox helpers.
 pub mod debug_sandbox;
 mod exit_status;
 pub mod login;
